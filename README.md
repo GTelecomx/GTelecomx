@@ -1,4 +1,4 @@
-# welcom to xG Telecom :eth:
+# welcom to xG Telecom :ET:
 
 Current Active Projects:
  1. **Resources Allocation Control and Monitoring(RACM)** for 'SHEMACHOCH'.
