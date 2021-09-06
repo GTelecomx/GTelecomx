@@ -1,4 +1,4 @@
-#welcom to xG Telecom: ProjcetA
+# welcom to xG Telecom
 
 Current Active Projects:
  1. Resources Allocation Control and Monitoring(RACM) for 'SHEMACHOCH'.
